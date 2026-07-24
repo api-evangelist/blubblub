@@ -1,0 +1,21 @@
+<!-- generated: '2026-07-18' | method: searched | source: https://speechblubs.com/llms.txt -->
+
+# Speech Blubs
+
+> Speech Blubs is a speech therapy app for children aged 1–8 that uses video modeling, speech exercises, and play-based activities to help kids with speech delays, autism, Down syndrome, apraxia, and other speech and language challenges. Used by over 7 million families worldwide and recommended by speech-language pathologists.
+
+Speech Blubs was created by a team of speech-language pathologists and child development experts. The app is available on iOS and Android and supports English, Spanish, and German.
+
+## Key Pages
+
+- [Homepage](https://speechblubs.com): Main landing page
+- [About](https://speechblubs.com/about): Company mission, team, and story
+- [Blog](https://speechblubs.com/blog): Articles on speech development, parenting, and therapy
+- [Research](https://speechblubs.com/research): Clinical research and evidence behind Speech Blubs
+- [FAQ](https://speechblubs.com/faq): Frequently asked questions
+- [Careers](https://speechblubs.com/careers): Open positions
+- [SLP Network](https://speechblubs.com/slpnetwork): Speech-language pathologist partner network
+- [Partnerships](https://speechblubs.com/partnerships): Partnership opportunities
+- [Parent Reviews – Speech Delay](https://speechblubs.com/reviews-speech-delay): Parent testimonials
+- [Parent Reviews – Autism](https://speechblubs.com/reviews-autism): Parent testimonials
+- [SLP Reviews](https://speechblubs.com/slpreviews): Reviews from speech-language pathologists

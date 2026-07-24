@@ -1,22 +1,71 @@
 aid: blubblub
 name: Blubblub
-description: Blubblub is a company surfaced as a portfolio company of speedinvest and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Blub Blub Inc. is the company behind Speech Blubs, a speech-therapy and
+  language-development app for children aged 1 to 8. Created by speech-language
+  pathologists and child-development experts, the app uses video modeling,
+  speech exercises, face filters, and play-based activities to help kids with
+  speech delays, autism, Down syndrome, and apraxia learn to talk. Speech Blubs
+  is available on iOS and Android, supports English, Spanish, and German, and
+  has been downloaded by over 10 million families worldwide. Blub Blub is a
+  portfolio company of Speedinvest. This is a consumer mobile-app company; it
+  does not publish a public developer API, OpenAPI specification, or developer
+  portal, so the entry is limited to verified company identity and published
+  web properties.
 url: https://raw.githubusercontent.com/api-evangelist/blubblub/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.speechblubs.com/2022/06/SB-WebsiteCover.png
+humanURL: https://speechblubs.com
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - speedinvest
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-no-public-api: true
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Speech Therapy
+- Education
+- Kids
+- Health
+- Mobile Apps
+- EdTech
+- Speedinvest Portfolio
 apis: []
+common:
+- type: Website
+  url: https://speechblubs.com
+- type: About
+  url: https://speechblubs.com/about
+- type: Blog
+  url: https://speechblubs.com/blog
+- type: Support
+  url: https://speechblubs.com/contact
+- type: GitHubOrganization
+  url: https://github.com/blubblub
+- type: LLMsTxt
+  url: llms/blubblub-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
