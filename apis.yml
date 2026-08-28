@@ -13,6 +13,17 @@ description: >-
   portal, so the entry is limited to verified company identity and published
   web properties.
 url: https://raw.githubusercontent.com/api-evangelist/blubblub/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
